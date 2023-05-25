@@ -1,6 +1,5 @@
 # hello-world
 
-I am Clem. From Chile.
-I have beginner Python skills and have professional experience in pseudopseudocode.
-I wish to become a Geologist or a Data Scientist, and am a sucker for Mathematics, Statistics, Informatics, and geoscience.
-If things go well, I will pursue superior education in Europe.
+I'm clem. I was born in Chile and am currently living in France.  
+I'm pursuing a career in Applied Mathematics and Computer Science.  
+I code mostly on C, OCaml, and Python.
